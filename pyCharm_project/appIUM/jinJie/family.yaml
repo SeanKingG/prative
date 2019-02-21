@@ -1,0 +1,11 @@
+
+name: Sean King
+age: 88
+wife:
+  name: Lan
+  age: 22
+children:
+  - name: Tom
+    age: 11
+  - name: Hai
+    age: 4

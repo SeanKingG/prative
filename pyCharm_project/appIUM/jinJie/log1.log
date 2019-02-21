@@ -1,0 +1,10 @@
+2019-02-21 00:16:24,499 j3.py [line:10] INFO hello SB
+2019-02-21 00:16:24,500 j3.py [line:11] WARNING warning info
+2019-02-21 00:16:24,500 j3.py [line:12] ERROR error info
+2019-02-21 00:16:24,500 j3.py [line:13] CRITICAL critical info
+2019-02-21 00:16:24,500 j3.py [line:23] WARNING name 'feaf' is not defined
+2019-02-21 00:17:04,997 j3.py [line:10] INFO hello SB
+2019-02-21 00:17:04,997 j3.py [line:11] WARNING warning info
+2019-02-21 00:17:04,997 j3.py [line:12] ERROR error info
+2019-02-21 00:17:04,997 j3.py [line:13] CRITICAL critical info
+2019-02-21 00:17:04,997 j3.py [line:23] WARNING name 'feaf' is not defined

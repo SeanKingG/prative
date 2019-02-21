@@ -1,0 +1,14 @@
+2019-02-21 00:18:55,205 lo.py [line:21] INFO hello SB
+2019-02-21 00:18:55,205 lo.py [line:22] WARNING warning info
+2019-02-21 00:18:55,205 lo.py [line:23] ERROR error info
+2019-02-21 00:18:55,206 lo.py [line:24] CRITICAL critical info
+2019-02-21 00:18:55,206 lo.py [line:34] WARNING name 'feaf' is not defined
+2019-02-21 00:20:41,712 lo.py [line:22] INFO hello SB
+2019-02-21 00:20:41,713 lo.py [line:23] WARNING warning info
+2019-02-21 00:20:41,713 lo.py [line:24] ERROR error info
+2019-02-21 00:20:41,713 lo.py [line:25] CRITICAL critical info
+2019-02-21 00:20:41,713 lo.py [line:35] WARNING name 'feaf' is not defined
+2019-02-21 00:24:14,263 lo.py [line:8] INFO hello 51zxw £¡
+2019-02-21 00:24:14,272 lo.py [line:9] WARNING warning info
+2019-02-21 00:24:14,272 lo.py [line:10] ERROR error info
+2019-02-21 00:24:14,272 lo.py [line:11] CRITICAL critical info
